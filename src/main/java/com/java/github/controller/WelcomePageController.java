@@ -15,7 +15,7 @@ public class WelcomePageController {
 	 * This method gets called when the main page of the Heroku GDPR UI is called 
 	 * @return  
 	 */
-	@RequestMapping("/")
+	@RequestMapping(value = {"/welcome", "/"})
 	public String welcome(Model model) {
 		String CURRENT_METHOD = "welcome";		
 		System.out.println(CURRENT_CLASS+" ::: "+CURRENT_METHOD+":: Inside method");
