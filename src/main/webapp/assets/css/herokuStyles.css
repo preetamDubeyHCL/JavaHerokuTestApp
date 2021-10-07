@@ -18,12 +18,12 @@
 
 html, body {
 	height: 100%;
-	background: #000000;
+	background: #D7A1F9;
 }
 
 body {
 	font: 15px/1 'Open Sans', sans-serif;
-	color: #777;
+	color: #C576F6;
 }
 
 a {
@@ -41,7 +41,7 @@ ul {
 
 .brandsec {
 	width: 200px;
-	background: #221E1F;
+	background: #880ED4;
 	text-align: center;
 }
 
@@ -52,7 +52,7 @@ ul {
 .rgtsect {
 	flex: 1;
 	padding: 0;
-	background: #000000;
+	background: #D7A1F9;
 	color: #FFFFFF;
 }
 
@@ -74,7 +74,7 @@ ul {
 
 nav[role="main"] {
 	width: 200px;
-	background: #221E1F;
+	background: #C576F6;
 }
 
 nav[role="sub"] {
@@ -87,7 +87,7 @@ nav[role="main"] header {
 	height: 66px;
 	font-size: 16px;
 	color: #fff;
-	background: #221E1F;
+	background: #C576F6;
 	text-align: center;
 }
 
